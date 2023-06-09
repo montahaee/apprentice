@@ -4,3 +4,6 @@
 [submodule "DB"]
 	path = DB
 	url = git@github.com:montahaee/DB.git
+[submodule "WIL_Journal"]
+	path = WIL_Journal
+	url = git@github.com:montahaee/WIL_Journal.git
