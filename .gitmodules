@@ -1,3 +1,6 @@
 [submodule "DS"]
 	path = DS
 	url = git@github.com:montahaee/DS.git
+[submodule "DB"]
+	path = DB
+	url = git@github.com:montahaee/DB.git
